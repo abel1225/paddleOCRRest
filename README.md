@@ -1,2 +1,1 @@
-# paddleOCRRest
-基于paddleOCR+Flask的OCR restful系统
+基于Flask和paddleOcr构建的Restful+OCR服务
